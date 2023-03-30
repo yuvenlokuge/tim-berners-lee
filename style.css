@@ -1,0 +1,77 @@
+#welcome,#bio,#videos,#work{
+    background:linear-gradient( aquamarine ,cyan);
+    width:100%;
+    display:table;
+    
+}
+#profile{
+    border-radius:50%;
+    padding:50px;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size:40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#name{
+font-size: 50px;
+font-family: cursive;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    font-family: cursive;
+    padding: 50px;
+    background-color:;
+}
+#Hi{
+    font-family: fantasy;
+}
+.menu{
+    position: fixed;
+    background: linear-gradient(aquamarine, cyan);
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+#writtings a{
+    font-size: 40px;
+    margin: 10px;
+}
+#contact{
+    background:lightseagreen;
+}
+.contact_1 h3
+{
+    display:inline;
+}
+#contact iframe{
+    width:100%;
+}
